@@ -1,0 +1,5 @@
+name: "pixel_mv"
+title: "纯代码像素风 MV"
+description: "用纯代码（低分辨率像素画布+GSAP+Puppeteer+FFmpeg）制作像素风音乐 MV：整数放大像素画、棋盘抖动渐变、歌词驱动语义分镜、16 种像素转场库、花里胡哨特效总开关，时长随音频自动确定。"
+category: "Work and knowledge"
+include_in_prompt: true
